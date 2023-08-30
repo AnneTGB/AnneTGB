@@ -1,4 +1,4 @@
-### Oii! Eu sou a Anne Tayná
+### Oii! Meu nome é Anne Tayná
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnneTGB&show_icons=true&theme=radical)
 
